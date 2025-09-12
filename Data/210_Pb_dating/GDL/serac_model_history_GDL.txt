@@ -1,0 +1,19 @@
+"name"	"coring_yr"	"date_computation"	"model_tested"	"Chernobyl"	"NWT"	"Hemisphere"	"FF"	"inst_deposit"	"ignore_depths"	"historic_depth"	"historic_age"	"historic_name"	"suppdescriptor"	"descriptor_lab"	"varves"	"sedchange"	"SML"	"age_forced_CRS_pw"	"depth_forced_CRS_pw"
+"GDL"	"2022"	"2023-02-20 19:00:00"	"CFCS"	"50, 60"	"100, 120"	"NH"	"130, 140"	"0"	NA	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:01:27"	"CFCS"	"50, 60"	"100, 120"	"NH"	"130, 140"	"0"	NA	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:01:52"	"CFCS"	"57, 62"	"100, 120"	"NH"	"130, 140"	"0"	NA	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:02:24"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	"130, 140"	"0"	NA	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:02:58"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	"130, 140"	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:03:55"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:04:09"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:04:12"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:05:53"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:06:59"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:07:06"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:10:12"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"210"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:10:33"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"205"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:10:53"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"207.5"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:11:14"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"207.5"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:11:31"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"207.5"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2023-02-20 19:12:56"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	NA	"0"	"207.5"	NA	NA	NA	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
+"GDL"	"2022"	"2024-04-22 10:15:16"	"CFCS"	"57, 62"	"87, 92.5"	"NH"	"NA"	"0"	"207.5"	"NA"	"NA"	"NA"	"FALSE"	NA	"FALSE"	"0"	"0"	NA	NA
